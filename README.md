@@ -12,7 +12,11 @@ Python + Streamlit。提供された元コードの判定手順を維持して�
 6. 発行された `https://…streamlit.app` を共有します。
 
 閲覧者はPythonのインストール不要で、公開アプリはログインせずに遊べます。
-公開のためのアカウント接続とデプロイはまだ完了していません。
+公開URL: https://hit-blow-codebreaker.streamlit.app/
+
+公開ソース: https://github.com/arrkt-fc/hit-and-blow-web
+
+2026-10-20に公開しました。公開版はPython 3.12 / Streamlit 1.66.0で動作確認済みです。
 
 公式手順: https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy
 
